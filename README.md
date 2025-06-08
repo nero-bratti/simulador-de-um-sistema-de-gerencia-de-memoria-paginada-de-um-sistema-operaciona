@@ -1,0 +1,1 @@
+# simulador-de-um-sistema-de-gerencia-de-memoria-paginada-de-um-sistema-operaciona
