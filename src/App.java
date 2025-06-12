@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        String addressesPath = "addresses/virtual4bits.txt";
+        Simulator simulator = new Simulator();
+        simulator.run(addressesPath);
     }
 }
